@@ -1,0 +1,56 @@
+Pakistan Job Market Dataset Analysis Question Sheet
+
+1. Data Overview
+How many rows and columns are in the dataset?
+What do the columns represent? Are the column names consistent and meaningful?
+Are there any duplicate rows? If yes, how many?
+What is the time range of the data (based on the 'Date Posted' column)?
+
+2. Data Cleaning
+Are there any missing values? Which columns have them, and what is their percentage?
+Are there any columns with irrelevant or inconsistent data (e.g., typos in city names)?
+Are there any duplicate job postings?
+
+3. Job Distribution
+What are the most common job titles ('label') in the dataset?
+Which cities have the highest number of job postings?
+What is the distribution of job types ('Job Type')?
+What are the top departments with the highest job postings?
+
+4. Experience Requirements
+What is the average experience required for jobs?
+What is the distribution of experience levels (e.g., entry-level, mid-level, senior)?
+How does experience vary by job type or department?
+
+5. Company Insights
+Which companies have posted the most job listings?
+Are there specific companies that dominate certain job types or departments?
+What trends can be observed about company preferences (e.g., job types, experience requirements)?
+
+6. Time-Based Analysis
+Are there seasonal trends in job postings (e.g., more jobs in certain months)?
+Which months or periods have the highest number of job postings?
+Are there specific departments or job types that peak at certain times?
+
+7. City and Regional Analysis
+Which cities have the highest concentration of job opportunities?
+Are there significant differences in job types or experience levels between cities?
+What trends can be observed for different cities over time?
+
+8. Job Descriptions (JD) Analysis
+Are there any common keywords or phrases in the job descriptions?
+What are the most frequently mentioned skills or requirements?
+Are there unique trends in job descriptions for certain job types or departments?
+
+9. Visualizations to Include
+Bar plot: Top job titles and their frequencies.
+Pie chart: Distribution of job types.
+Histogram: Distribution of experience levels.
+Line plot: Trends in job postings over time.
+Heatmap: Job distribution by city and department.
+
+10. Recommendations
+Based on the insights, what recommendations can be given to job seekers in Pakistan?
+Are there specific skills or qualifications that appear to be in high demand?
+What regions or cities should job seekers focus on for specific job types or industries?
+This structure will help you comprehensively explore the dataset and uncover meaningful insights about the job market in Pakistan. Let me know if you'd like assistance coding or visualizing specific parts!
